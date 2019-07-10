@@ -15,14 +15,14 @@
     </url>
     
     <url>
-        <loc>http://hughiewang.com/about/</loc>
+        <loc>http://hughiewang.com/archive/</loc>
         <lastmod>2019-07-05T04:07:00.873Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://hughiewang.com/archive/</loc>
+        <loc>http://hughiewang.com/about/</loc>
         <lastmod>2019-07-05T04:07:00.873Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
